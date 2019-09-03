@@ -1,7 +1,6 @@
 public class Variables
 {
-
-    public static void main()
+    public static void main(String[] args)
     {
         int snapchatsSent = 353;
         System.out.println("Number of snapchats sent: " + snapchatsSent);
