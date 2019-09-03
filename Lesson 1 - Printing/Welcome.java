@@ -1,7 +1,7 @@
 public class Welcome
 {
-    public void run()
+    public static void main(String[] args)
     {
-        
+        //your code here
     } 
 }

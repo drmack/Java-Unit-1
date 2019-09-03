@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Printing",
+            "request": "launch",
+            "mainClass": "Printing"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld"
