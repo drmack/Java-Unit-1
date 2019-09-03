@@ -1,7 +1,7 @@
 public class variables_Int
 {
 
-    public void run()
+    public static void main(String[] args)
     {
         // your code here
     }

@@ -1,8 +1,7 @@
 public class Answer
 {
 
-    public void run()
-    {
+    public static void main(String[] args) {
         String myName = 
         int luckyNumber =
         double currentTemperature =
