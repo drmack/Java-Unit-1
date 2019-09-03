@@ -1,7 +1,7 @@
 public class Variables
 {
 
-    public void run()
+    public static void main()
     {
         int snapchatsSent = 353;
         System.out.println("Number of snapchats sent: " + snapchatsSent);
@@ -13,11 +13,10 @@ public class Variables
         System.out.println("Favorite app: " + favoriteApp);
         
         youTubeVideosWatched = 240.4;
-        
+
         System.out.println("Number of YouTube videos watched: " + youTubeVideosWatched);
         
         char firstLetter = 'A';
         System.out.println("First letter " + firstLetter);
     }
-
 }
